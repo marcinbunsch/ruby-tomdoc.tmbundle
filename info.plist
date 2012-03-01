@@ -7,7 +7,7 @@
   <key>contactName</key>
   <string>Marcin Bunsch</string>
   <key>description</key>
-  <string>Extension for Ruby Bundle to automatically generate TomDoc</string>
+  <string>Extension for Ruby Textmate Bundle to automatically generate TomDoc</string>
   <key>name</key>
   <string>Ruby with TomDoc</string>
   <key>uuid</key>
