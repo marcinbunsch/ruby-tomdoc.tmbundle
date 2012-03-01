@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>contactEmailRot13</key>
+  <string>marcin@futuresimple.com</string>
+  <key>contactName</key>
+  <string>Marcin Bunsch</string>
+  <key>description</key>
+  <string>Extension for Ruby Bundle to automatically generate TomDoc</string>
+  <key>name</key>
+  <string>Ruby with TomDoc</string>
+  <key>uuid</key>
+  <string>59A10F11-798B-4E08-83AE-30A7AAA54338</string>
+</dict>
+</plist>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string># ${2:Public|Internal}: ${3:'Method description'}
+#
+# ${4:argument  - argument description}
+#
+${5:# Examples
+#
+#   method
+#   # =&gt; 'returned value'
+}#
+# ${6:Returns nothing|something}
+def self.${1:method_name}
+  $0
+end</string>
+	<key>name</key>
+	<string>def self…. end with doc</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>ddefs</string>
+	<key>uuid</key>
+	<string>D54E2D6B-3968-4827-BFD6-27031D069771</string>
+</dict>
+</plist>

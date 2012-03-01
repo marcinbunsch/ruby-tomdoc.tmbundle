@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>Gemfile</string>
+		<string>rb</string>
+		<string>rbx</string>
+		<string>rjs</string>
+		<string>Rakefile</string>
+		<string>rake</string>
+		<string>cgi</string>
+		<string>fcgi</string>
+		<string>gemspec</string>
+		<string>irbrc</string>
+		<string>capfile</string>
+	</array>
+	<key>firstLineMatch</key>
+	<string>^#!/.*\bruby</string>
+	<key>name</key>
+	<string>Ruby with TomDoc</string>
+	<key>scopeName</key>
+	<string>source.rubytomdoc</string>
+	<key>uuid</key>
+	<string>3A14799B-4890-4F6B-8663-1592FA1BE958</string>
+</dict>
+</plist>
